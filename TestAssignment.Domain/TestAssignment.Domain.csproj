@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Entity\" />
+    <None Remove="ViewModels\" />
+    <None Remove="ViewModels\Category\" />
+    <None Remove="ViewModels\Product\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Entity\" />
+    <Folder Include="ViewModels\" />
+    <Folder Include="ViewModels\Category\" />
+    <Folder Include="ViewModels\Product\" />
+  </ItemGroup>
+</Project>

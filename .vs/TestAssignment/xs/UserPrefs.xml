@@ -1,0 +1,78 @@
+﻿<Properties StartupConfiguration="{ED2116DD-0BBD-4B2D-B72B-040082D3EBE1}|https">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TestAssignment.Service.TestAssignment.Service FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.TestAssignment PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.TestAssignment.DAL.TestAssignment.DAL FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.TestAssignmentAPI FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.TestAssignment.Domain.TestAssignment.Domain FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestAssignment.Service/Implementations/ProductService.cs">
+    <Files>
+      <File FileName="TestAssignment.Domain/Entity/Category.cs" />
+      <File FileName="TestAssignment.Domain/ViewModels/Category/CategoryViewModel.cs" Line="12" Column="30" />
+      <File FileName="TestAssignment.Service/Interfaces/ICategoryService.cs" Line="9" Column="10" />
+      <File FileName="TestAssignment.Service/Implementations/CategoryService.cs" Line="80" Column="91" />
+      <File FileName="TestAssignment/Controllers/CategoryController.cs" Line="24" Column="12" />
+      <File FileName="TestAssignmentAPI/Controllers/WeatherForecastController.cs" Line="1" Column="1" />
+      <File FileName="TestAssignmentAPI/Controllers/CategoryController.cs" Line="83" Column="14" />
+      <File FileName="TestAssignment.Domain/Entity/Product.cs" Line="23" Column="42" />
+      <File FileName="TestAssignment.DAL/Repositories/CategoryRepository.cs" Line="25" Column="47" />
+      <File FileName="TestAssignment.DAL/Repositories/ProductRepository.cs" Line="38" Column="27" />
+      <File FileName="TestAssignment.DAL/ApplicationDbContext.cs" Line="17" Column="47" />
+      <File FileName="TestAssignment.DAL/Interfaces/IBaseRepository.cs" Line="11" Column="1" />
+      <File FileName="TestAssignment.Domain/ViewModels/Product/ProductViewModel.cs" Line="23" Column="38" />
+      <File FileName="TestAssignment.Service/Interfaces/IProductService.cs" Line="11" Column="42" />
+      <File FileName="TestAssignment.Service/Implementations/ProductService.cs" Line="81" Column="91" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestAssignment" expanded="True">
+            <Node name="TestAssignment.DAL" expanded="True">
+              <Node name="TestAssignment.DAL" expanded="True">
+                <Node name="Interfaces" expanded="True" />
+                <Node name="Repositories" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="TestAssignment.Domain" expanded="True">
+              <Node name="TestAssignment.Domain" expanded="True">
+                <Node name="Entity" expanded="True" />
+                <Node name="ViewModels" expanded="True">
+                  <Node name="Category" expanded="True" />
+                  <Node name="Product" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+            <Node name="TestAssignment.Service" expanded="True">
+              <Node name="TestAssignment.Service" expanded="True">
+                <Node name="Implementations" expanded="True">
+                  <Node name="ProductService.cs" selected="True" />
+                </Node>
+                <Node name="Interfaces" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="TestAssignment" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+                <Node name="js" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="TestAssignmentAPI" expanded="True">
+              <Node name="Controllers" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
